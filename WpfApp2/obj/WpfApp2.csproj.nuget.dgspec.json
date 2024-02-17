@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Айрат\\практика литвинов\\WpfApp2\\WpfApp2\\WpfApp2.csproj": {}
+    "C:\\Users\\student\\Desktop\\WpfApp2\\WpfApp2\\WpfApp2.csproj": {}
   },
   "projects": {
-    "E:\\Айрат\\практика литвинов\\WpfApp2\\WpfApp2\\WpfApp2.csproj": {
+    "C:\\Users\\student\\Desktop\\WpfApp2\\WpfApp2\\WpfApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Айрат\\практика литвинов\\WpfApp2\\WpfApp2\\WpfApp2.csproj",
+        "projectUniqueName": "C:\\Users\\student\\Desktop\\WpfApp2\\WpfApp2\\WpfApp2.csproj",
         "projectName": "WpfApp2",
-        "projectPath": "E:\\Айрат\\практика литвинов\\WpfApp2\\WpfApp2\\WpfApp2.csproj",
+        "projectPath": "C:\\Users\\student\\Desktop\\WpfApp2\\WpfApp2\\WpfApp2.csproj",
         "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "E:\\Айрат\\практика литвинов\\WpfApp2\\WpfApp2\\obj\\",
+        "outputPath": "C:\\Users\\student\\Desktop\\WpfApp2\\WpfApp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -17,15 +17,15 @@
         </StackPanel>
         <StackPanel Orientation="Horizontal">
             <TextBlock Text="Введите имя" Height="50" FontSize="40" Width="280" Margin="40,20,0,0" FontStyle="Italic"/>
-            <TextBox Height="50" Width="350" Margin="30,10,0,0" Background="LightBlue" FontStyle="Italic" x:Name="imyas"/>
+            <TextBox Height="50" Width="350" Margin="30,10,0,0" Background="LightBlue" FontStyle="Italic" x:Name="imyas" FontSize="30"/>
         </StackPanel>
         <StackPanel Orientation="Horizontal">
             <TextBlock Text="Введите логин" Height="50" FontSize="40" Width="280" Margin="40,20,0,0" FontStyle="Italic"/>
-            <TextBox Height="50" Width="350" Margin="30,20,0,0" Background="LightBlue" FontStyle="Italic" x:Name="logins"/>
+            <TextBox Height="50" Width="350" Margin="30,20,0,0" Background="LightBlue" FontStyle="Italic" x:Name="logins" FontSize="30"/>
         </StackPanel>
         <StackPanel Orientation="Horizontal">
             <TextBlock Text="Введите пароль" Height="50" FontSize="40" Width="302" Margin="40,20,0,0" FontStyle="Italic"/>
-            <TextBox Height="50" Width="350" Margin="10,20,0,0" Background="LightBlue" FontStyle="Italic" x:Name="passwords"/>
+            <TextBox Height="50" Width="350" Margin="10,20,0,0" Background="LightBlue" FontStyle="Italic" x:Name="passwords" FontSize="30"/>
         </StackPanel>
         <StackPanel Orientation="Vertical">
             <Button Content="Войти" Height="50" FontSize="30" Width="125" Margin="40,20,0,0" Background="LightBlue" Click="Button_Click_1" FontStyle="Italic">

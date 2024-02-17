@@ -12,6 +12,7 @@
                 <TextBlock Text="Магазин спортивного инвентаря" FontSize="40" FontStyle="Italic" FontWeight="Bold" Width="761" Height="52" HorizontalAlignment="Center" Foreground="White" Margin="70,20,0,0"/>
             </StackPanel>
         </StackPanel>
+
         <StackPanel>
             <TextBlock Text="------Мои данные------" FontSize="40" HorizontalAlignment="Center" FontStyle="Italic"/>
         </StackPanel>

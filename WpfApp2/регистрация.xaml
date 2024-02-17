@@ -17,19 +17,19 @@
         </StackPanel>
         <StackPanel Orientation="Horizontal">
             <TextBlock Text="Введите имя" Height="50" FontSize="30" Width="280" Margin="40,10,0,0" FontStyle="Italic"/>
-            <TextBox Height="50" Width="350" Margin="30,10,0,0" Background="LightBlue" FontStyle="Italic" x:Name="imyas"/>
+            <TextBox Height="50" Width="350" Margin="30,10,0,0" Background="LightBlue" FontStyle="Italic" x:Name="imyas" FontSize="30"/>
         </StackPanel>
         <StackPanel Orientation="Horizontal">
             <TextBlock Text="Придумайте логин" Height="50" FontSize="30" Width="280" Margin="40,10,0,0" FontStyle="Italic"/>
-            <TextBox Height="50" Width="350" Margin="30,10,0,0" Background="LightBlue" FontStyle="Italic" x:Name="Logins"/>
+            <TextBox Height="50" Width="350" Margin="30,10,0,0" Background="LightBlue" FontStyle="Italic" x:Name="Logins" FontSize="30"/>
         </StackPanel>
         <StackPanel Orientation="Horizontal">
             <TextBlock Text="Придумайте пароль" Height="50" FontSize="30" Width="291" Margin="40,10,0,0" FontStyle="Italic"/>
-            <TextBox Height="50" Width="350" Margin="20,10,0,0" Background="LightBlue" FontStyle="Italic" x:Name="Passwords"/>
+            <TextBox Height="50" Width="350" Margin="20,10,0,0" Background="LightBlue" FontStyle="Italic" x:Name="Passwords" FontSize="30"/>
         </StackPanel>
         <StackPanel Orientation="Horizontal">
             <TextBlock Text="Повторите пароль" Height="50" FontSize="30" Width="291" Margin="40,10,0,0" FontStyle="Italic"/>
-            <TextBox Height="50" Width="350" Margin="20,10,0,0" Background="LightBlue" FontStyle="Italic"/>
+            <TextBox Height="50" Width="350" Margin="20,10,0,0" Background="LightBlue" FontStyle="Italic" FontSize="30"/>
         </StackPanel>
         <StackPanel Orientation="Vertical">
             <Button Content="Зарегистрироваться" Height="50" FontSize="30" Width="325" Margin="20,10,0,0" Background="LightBlue" FontStyle="Italic" Click="Button_Click_1">
